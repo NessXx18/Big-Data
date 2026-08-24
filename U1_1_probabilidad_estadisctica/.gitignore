@@ -1,0 +1,7 @@
+.venv/
+.DS_Store
+.vscode/
+U1_2_prueba/
+**/__pycache__
+**/.env
+
