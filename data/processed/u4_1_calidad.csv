@@ -1,0 +1,9 @@
+﻿Variable,tipo de dato,valores faltantes,valores distintos
+Channel,int64,0,2
+Region,int64,0,3
+Fresh,int64,0,433
+Milk,int64,0,421
+Grocery,int64,0,430
+Frozen,int64,0,426
+Detergents_Paper,int64,0,417
+Delicassen,int64,0,403
